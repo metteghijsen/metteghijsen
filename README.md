@@ -3,7 +3,7 @@ I'm a junior front-end webdeveloper.
 Want to check out my [portfolio](https://metteghijsen.nl/ )?
 
 ## I'm an IT student at Fontys University of Applied Sciences.
-- 🔭 I'm currently competing in an IT competition at Sogeti. In addition, I am also trying to finish my portfolio website as soon as possible.  
+- 🔭 Trying to finish my portfolio website as soon as possible.  
 - 🌱 I'm currently learning the advancements of Javascript. I'm getting started with Vue really soon.
 - 🥅 2022 Goals: Create a complex Vue project.
 - ⚡ Fun fact: I love to play videogames and play guitar!
