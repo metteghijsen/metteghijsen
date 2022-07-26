@@ -6,7 +6,7 @@ Want to check out my [portfolio](https://metteghijsen.nl/ )?
 - 🔭 Trying to finish my portfolio website as soon as possible.  
 - 🌱 I'm currently learning the advancements of Javascript. I'm getting started with Vue really soon.
 - 🥅 2022 Goals: Create a complex Vue project.
-- ⚡ Fun fact: I love to play videogames and play guitar!
+- ⚡ Hobbies: I love to play videogames and play guitar!
 - 📫 How to reach me: mette.ghijsen@student.fontys.nl
 
 ## Languages 
