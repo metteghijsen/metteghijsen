@@ -1,5 +1,5 @@
 ## Hi there 👋 - my name is Mette
-I'm a junior front-end webdeveloper.
+I'm a front-end webdeveloper.
 Want to check out my [portfolio](https://metteghijsen.nl/ )?
 
 ## I'm an IT student at Fontys University of Applied Sciences.
