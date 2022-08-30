@@ -1,3 +1,5 @@
+![portfolios4header4](https://user-images.githubusercontent.com/84067173/187463620-756486c0-6e05-4a9a-bcd7-31b34bf60c57.png)
+
 ## Hi there 👋 - my name is Mette
 I'm a front-end webdeveloper.
 Want to check out my [portfolio](https://metteghijsen.nl/ )?
