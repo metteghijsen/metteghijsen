@@ -2,11 +2,10 @@
 
 ## Hi there 👋 - my name is Mette
 I'm a front-end webdeveloper.
-Want to check out my [portfolio](https://metteghijsen.nl/ )?
+Want to check out my [portfolio](https://metteghijsen.nl/)?
 
-## I'm an IT student at Fontys University of Applied Sciences.
-- 🔭 Trying to finish my portfolio website as soon as possible.  
-- 🌱 I'm currently learning the advancements of Javascript. I'm getting started with Vue really soon.
+## I'm an IT student at Fontys University of Applied Sciences. 
+- 🌱 I'm currently doing a Smart Mobile specialisation, and learning alot about mobile development. I would love to get started with Vue really soon.
 - 🥅 2022 Goals: Create a complex Vue project.
 - ⚡ Hobbies: I love to play videogames and play guitar!
 - 📫 How to reach me: mette.ghijsen@student.fontys.nl
