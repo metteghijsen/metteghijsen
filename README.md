@@ -6,9 +6,9 @@ Want to check out my [portfolio](https://metteghijsen.nl/)?
 
 ## I'm an IT student at Fontys University of Applied Sciences. 
 - 🌱 I'm currently doing a Smart Mobile specialisation, and learning alot about mobile development. I would love to get started with Vue really soon.
-- 🥅 2022 Goals: Create a complex Vue project.
+- 🥅 2022 Goals: Create my first Vue project.
 - ⚡ Hobbies: I love to play videogames and play guitar!
-- 📫 How to reach me: mette.ghijsen@student.fontys.nl
+- 📫 How to reach me: info@metteghijsen.nl
 
 ## Languages 
 <img align="left" alt="html" width="50px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"/>
