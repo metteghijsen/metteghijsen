@@ -10,9 +10,9 @@ Want to check out my [portfolio](https://metteghijsen.nl/)?
 - 📫 How to reach me: info@metteghijsen.nl
 
 ## Languages 
-![html](https://github.com/metteghijsen/metteghijsen/assets/84067173/75c0ff97-83a1-47b3-b34f-57c29946925a)
-![css](https://github.com/metteghijsen/metteghijsen/assets/84067173/6b9821c8-4194-4e64-a168-d4f0240580fc)
-![javascript](https://github.com/metteghijsen/metteghijsen/assets/84067173/499f8d87-8eab-4f12-b7a2-f71d70cc5d04)
+<img align="left" alt="html" width="50px" src="https://github.com/metteghijsen/metteghijsen/assets/84067173/75c0ff97-83a1-47b3-b34f-57c29946925a"/>
+<img align="left" alt="html" width="50px" src="https://github.com/metteghijsen/metteghijsen/assets/84067173/6b9821c8-4194-4e64-a168-d4f0240580fc"/>
+<img align="left" alt="html" width="50px" src="https://github.com/metteghijsen/metteghijsen/assets/84067173/499f8d87-8eab-4f12-b7a2-f71d70cc5d04"/>
 <img align="left" alt="javascript" width="50px" src="https://github.com/metteghijsen/metteghijsen/assets/84067173/5a8f81b2-fbbb-49c1-998c-f6804cec94d0"/>
 <img align="left" alt="javascript" width="50px" src="https://github.com/metteghijsen/metteghijsen/assets/84067173/c395adfe-5256-4538-b9a5-61d38d78c276"/>
 <img align="left" alt="javascript" width="50px" src="https://github.com/metteghijsen/metteghijsen/assets/84067173/a917ad7b-afcf-4216-98fe-c2a079f9d192"/>
