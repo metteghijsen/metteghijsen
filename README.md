@@ -5,7 +5,7 @@ I'm a front-end webdeveloper.
 Want to check out my [portfolio](https://metteghijsen.nl/)?
 
 ## I'm an IT student at Fontys University of Applied Sciences. 
-- 🌱 I'm currently in the 3rd year of my bachelor IT & Media Design, specializing in Vue and Nuxt.
+- 🌱 I'm currently in the 4th year of my bachelor IT & Media Design, specializing in Vue and Nuxt.
 - ⚡ Hobbies: I love to play videogames and play guitar!
 - 📫 How to reach me: info@metteghijsen.nl
 
